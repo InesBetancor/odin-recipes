@@ -4,3 +4,4 @@
 
 In this project I will be developing a web for recipes using HTML
 
+I have learned how to do numeric and no numeric lists
